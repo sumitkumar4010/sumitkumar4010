@@ -1,3 +1,4 @@
+![logo](https://github.com/sumitkumar4010/sumitkumar4010/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">|| Full Stack Developer. ||</h3>
 
@@ -16,6 +17,8 @@
 - 📫 How to reach me **sumitkumarsewa4010@gmail.com**
 
 - ⚡ Fun fact **I am funny🥰**
+
+- Email Me 👉 ✉ *sumitkumarsewa4010@gmail.com* For Collaboration/Project or Anything Else.😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,6 +52,10 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkumar4010&show_icons=true&locale=en&layout=compact"
         alt="sumitkumar4010" /></p>
